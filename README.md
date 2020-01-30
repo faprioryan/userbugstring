@@ -1,4 +1,3 @@
-<h1 align="center">Project SharkBot</h1>
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/userbotindo/userbug)
 <h1 align="center">Project Userbot</h1>
 <h3 align="center">A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.</h3>
