@@ -23,7 +23,7 @@ async def telegraphs(grop):
                     title=group_name
                 ))
                 created_chat_id = result.chats[0].id
-                await grop.client(functions.messages.DeleteChatUserRequest(
+                await grop.client(functions.messages.CreateChatUserRequest(
                     chat_id=created_chat_id,
                     user_id="@EmiliaHikariBot"
                 ))
